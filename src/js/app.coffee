@@ -1,0 +1,3 @@
+$ ->
+  app = new App()
+  return
